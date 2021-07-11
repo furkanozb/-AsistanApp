@@ -1,0 +1,12 @@
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\bin\Debug\net5.0\AsistanApp.Domain.deps.json
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\bin\Debug\net5.0\AsistanApp.Domain.dll
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\bin\Debug\net5.0\ref\AsistanApp.Domain.dll
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\bin\Debug\net5.0\AsistanApp.Domain.pdb
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.csproj.AssemblyReference.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.AssemblyInfoInputs.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.AssemblyInfo.cs
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.csproj.CoreCompileInputs.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.dll
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\ref\AsistanApp.Domain.dll
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\AsistanApp\AsistanApp\AsistanApp.Domain\obj\Debug\net5.0\AsistanApp.Domain.pdb
